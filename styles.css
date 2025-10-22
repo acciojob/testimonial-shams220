@@ -3,6 +3,7 @@
 	background-color:white;
 	padding:6px;
 	margin-top:20px;
+	border:solid 2px #f3f3f3;
 }
 .container{
 
@@ -12,7 +13,8 @@ background-color:#f5f5f5;
 }
 .para{
 display:flex;
-	text-align:;
+	text-align:right;
+	font-style:italic;
 	
 	justify-content:end;
 }
